@@ -180,6 +180,6 @@ temple.html
 ![alt text](3.png)
 ![alt text](4.png)
 ![alt text](5.png)
-![alt text](map.png)
+![alt text](6.png)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
